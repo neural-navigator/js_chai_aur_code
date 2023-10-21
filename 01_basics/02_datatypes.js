@@ -16,4 +16,5 @@
 9. 
 */
 
-console.log(typeof(undefined));
+console.log(typeof(undefined)); // this is correct
+console.log(typeof 33.3); // this is also correct
